@@ -1,0 +1,4 @@
+setuptools
+apache-airflow
+wheel
+twine
